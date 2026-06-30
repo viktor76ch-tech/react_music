@@ -1,5 +1,6 @@
 .main
 {
+    background-color: #d5e6f5;
     min-height: calc(100vh - 103px);
     margin: 0 5%;
 }

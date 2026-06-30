@@ -22,8 +22,8 @@ function App() {
         </a>
       </header>*/}
       <Header/>
-      <Footer/>
       <Main/>
+      <Footer/>
     </div>
   );
 }

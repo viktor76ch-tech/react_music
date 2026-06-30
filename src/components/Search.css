@@ -1,0 +1,21 @@
+.search
+{
+    margin: 30px 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.search input
+{
+    background-color: #d5e6f5;
+    font-size: 24px;
+    text-align: center;
+    width: 100%;
+    border: 0px;
+}
+.search input:focus
+{
+   outline: none;
+   border: 0;
+   border-bottom: 1px solid #CCC;
+
+}
